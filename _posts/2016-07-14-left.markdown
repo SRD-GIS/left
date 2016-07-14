@@ -1,0 +1,19 @@
+---
+layout: post
+title: TEST POST
+category: posts
+---
+
+This is a blog template from Left for [Jekyll][jekyll].
+
+It is from [zachholman.com][zh]
+
+---
+
+---
+
+Make contact [@spatialindex][twitter].
+
+[jekyll]: https://github.com/mojombo/jekyll
+[zh]: http://zachholman.com
+[twitter]: https://twitter.com/spatialindex
